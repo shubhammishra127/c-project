@@ -1,3 +1,14 @@
+/*
+===========================================
+ Project Name : Student Management System
+ Language     : C
+ Author       : Shubham Mishra
+ Description  : Console based C project using
+                file handling to manage
+                student records.
+===========================================
+*/
+
 #include<stdio.h>
 #include<string.h>
 
